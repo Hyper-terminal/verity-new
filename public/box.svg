@@ -1,0 +1,37 @@
+<svg width="1213" height="768" viewBox="0 0 1213 768" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.3">
+<rect opacity="0.04" x="576" y="134" width="100" height="100" fill="white"/>
+<rect opacity="0.04" x="876" y="334" width="100" height="100" fill="white"/>
+<rect opacity="0.04" x="676" y="534" width="100" height="100" fill="white"/>
+<rect opacity="0.04" x="376" y="434" width="100" height="100" fill="white"/>
+<rect opacity="0.04" x="176" y="234" width="100" height="100" fill="white"/>
+<rect opacity="0.04" x="276" y="634" width="100" height="100" fill="white"/>
+<rect opacity="0.04" x="76" y="534" width="100" height="100" fill="white"/>
+<rect opacity="0.04" x="577" y="334" width="100" height="100" fill="white"/>
+<rect opacity="0.04" x="76" y="34" width="100" height="100" fill="white"/>
+<rect opacity="0.04" x="976" y="134" width="100" height="100" fill="white"/>
+<rect opacity="0.04" x="1076" y="634" width="100" height="100" fill="white"/>
+<g opacity="0.13">
+<line x1="76.25" y1="27" x2="76.25" y2="734" stroke="white" stroke-width="0.5"/>
+<line x1="176.25" y1="1.09278e-08" x2="176.25" y2="768" stroke="white" stroke-width="0.5"/>
+<line x1="276.25" y1="1.09278e-08" x2="276.25" y2="768" stroke="white" stroke-width="0.5"/>
+<line x1="376.25" y1="1.09278e-08" x2="376.25" y2="768" stroke="white" stroke-width="0.5"/>
+<line x1="476.25" y1="1.09278e-08" x2="476.25" y2="768" stroke="white" stroke-width="0.5"/>
+<line x1="576.25" y1="1.09278e-08" x2="576.25" y2="768" stroke="white" stroke-width="0.5"/>
+<line x1="676.25" y1="1.09278e-08" x2="676.25" y2="768" stroke="white" stroke-width="0.5"/>
+<line x1="776.25" y1="1.09278e-08" x2="776.25" y2="768" stroke="white" stroke-width="0.5"/>
+<line x1="876.25" y1="1.09278e-08" x2="876.25" y2="768" stroke="white" stroke-width="0.5"/>
+<line x1="976.25" y1="1.09278e-08" x2="976.25" y2="768" stroke="white" stroke-width="0.5"/>
+<line x1="1076.25" y1="1.09278e-08" x2="1076.25" y2="768" stroke="white" stroke-width="0.5"/>
+<line x1="1176.25" y1="25" x2="1176.25" y2="736" stroke="white" stroke-width="0.5"/>
+<line x1="57" y1="33.75" x2="1154" y2="33.7501" stroke="white" stroke-width="0.5"/>
+<line y1="133.75" x2="1213" y2="133.75" stroke="white" stroke-width="0.5"/>
+<line y1="233.75" x2="1213" y2="233.75" stroke="white" stroke-width="0.5"/>
+<line y1="333.75" x2="1213" y2="333.75" stroke="white" stroke-width="0.5"/>
+<line y1="433.75" x2="1213" y2="433.75" stroke="white" stroke-width="0.5"/>
+<line y1="533.75" x2="1213" y2="533.75" stroke="white" stroke-width="0.5"/>
+<line y1="633.75" x2="1213" y2="633.75" stroke="white" stroke-width="0.5"/>
+<line x1="60" y1="733.75" x2="1156" y2="733.75" stroke="white" stroke-width="0.5"/>
+</g>
+</g>
+</svg>
